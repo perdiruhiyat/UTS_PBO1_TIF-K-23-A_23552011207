@@ -22,9 +22,11 @@ public abstract class ItemMakanan {
         return harga;
     }
 
-    public abstract double hitungHarga();
+    
+    public double hitungHarga() {
+        return getHarga();
+    }
 
     public abstract void persiapkan();
-
     public abstract void sajikan();
 }
