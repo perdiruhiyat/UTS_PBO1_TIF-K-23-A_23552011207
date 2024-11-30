@@ -48,4 +48,5 @@ pada Abstrak diterapkan pada kelas `ItemMakanan` yang dimana mendefinisikan kera
 ## Demo Proyek
 <ul>
   <li>Google Drive: <a href="https://drive.google.com/drive/folders/1Q2j01o110yebszTnNIwlvvMrYucdd2D9?usp=sharing">Google Drive</a></li>
+  <li>Github: <a href="https://github.com/perdiruhiyat/UTS_PBO1_TIF-K-23-A_23552011207">Github</a></li>
 </ul>
